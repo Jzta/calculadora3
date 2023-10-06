@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\bin\Debug\calculadora3.exe.config
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\bin\Debug\calculadora3.exe
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\bin\Debug\calculadora3.pdb
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.Form1.resources
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.Properties.Resources.resources
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.exe
+C:\Users\hp\Desktop\C# REGISTRO ESTUDIO\calculadora3\calculadora3\obj\Debug\calculadora3.pdb
